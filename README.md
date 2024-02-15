@@ -6,3 +6,7 @@ In this Django Project I've created a Form(Employee Register form) with Create,R
 
 
 CRUD OPERATION UI
+<img width="898" alt="Screenshot 2024-02-15 123916" src="https://github.com/sh-vani/employee_manage_crud/assets/140081346/b8f21826-46a9-4359-90fc-d867709b8ae3">
+
+
+
